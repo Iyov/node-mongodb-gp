@@ -2,13 +2,15 @@
 
 
 ```
-Node.JS: [https://nodejs.org/](https://nodejs.org/)
+Node.JS: https://nodejs.org/
 ```
 
+##Base de datos, Atlas
 ```
-mongoDB: [https://www.mongodb.com/](https://www.mongodb.com/)
+mongoDB: https://www.mongodb.com/
 ```
 
+##Editor de código en la nuve
 ```
-Gitpod: [https://www.gitpod.io/](https://www.gitpod.io/)
+Gitpod: https://www.gitpod.io/
 ```
